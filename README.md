@@ -1,2 +1,2 @@
 # demo
-This file is for demo class
+This file is for demo class.
